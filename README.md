@@ -91,6 +91,8 @@ O objetivo é oferecer aos eleitores dados claros e acessíveis que ajudem a tom
 
 #### Contribuições Pessoais
 
+Atuei no desenvolvimento de interfaces e na viabilização técnica do projeto, conseguindo a disponibilização de uma API oficial da prefeitura para substituir a raspagem de dados. Utilizei essa integração para desenvolver a página de relatórios e auxiliar na implementação das demais funcionalidades do sistema.
+
 - Colaboração na elaboração dos **protótipos e interfaces no Figma**.
 - Atuação proativa na **negociação com a Câmara Municipal**, conseguindo a disponibilização de uma **API oficial** que eliminou a necessidade de *web scraping* e garantiu dados mais confiáveis.
 - Desenvolvimento completo da **página de relatórios**.
