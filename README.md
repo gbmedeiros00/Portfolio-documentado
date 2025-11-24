@@ -183,8 +183,8 @@ Como **Scrum Master** e Desenvolvedor do projeto, fui responsável por liderar a
 
 #### Hard Skills Desenvolvidas
  
-- JavaScript/TypeScript/MySQL: Realizo com auxílio.
-- Git/Figma/HTML5/CSS3/React: Realizo com autonomia.
+- React/TypeScript: Realizo com auxílio.
+- Git/Figma/HTML5/CSS3/JavaScript/MySQL: Realizo com autonomia.
 
 
 #### Soft Skills Desenvolvidas
